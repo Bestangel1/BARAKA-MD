@@ -74,10 +74,10 @@ module.exports = {
   VERSION : process.env.VERSION || "1.3.1",
   caption : process.env.CAPTION || "BARAKA-XMD✅" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "Mr baraka",
-  packname: process.env.PACK_NAME || "🐯",
+  author : process.env.PACK_AUTHER|| "♜ꦽ⃡⃝ 𝓟𝓻𝓲𝓶𝓾𝓼 𓆩🤍𓆪𝓗𝔂𝓭𝓻𝓸 ꦽ⃡⃝♜",
+  packname: process.env.PACK_NAME || "♜ꦽ⃡⃝ 𝓟𝓻𝓲𝓶𝓾𝓼 𓆩🤍𓆪𝓗𝔂𝓭𝓻𝓸 ꦽ⃡⃝♜",
   botname : process.env.BOT_NAME  || "BARAKA MD",
-  ownername:process.env.OWNER_NAME|| "Mr baraka",
+  ownername:process.env.OWNER_NAME|| "♜ꦽ⃡⃝ 𝓟𝓻𝓲𝓶𝓾𝓼 𓆩🤍𓆪𝓗𝔂𝓭𝓻𝓸 ꦽ⃡⃝♜",
 
 
   errorChat : process.env.ERROR_CHAT || "",
